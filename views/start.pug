@@ -1,0 +1,19 @@
+extends layout
+
+block content
+    div
+    h1= "Dice Game"
+    form(action='/startGame', method='post')
+        label(for='_id') Identificador de Juego: 
+        input(type='text', id='_id', name='_id', value='', placeholder='Ingrese el ID del juego')
+        p
+        label(for='gamers') Apuesta Jugador 1: 
+        input(type='text', id='gamers', name='gamers[0][bet]', value='', placeholder='Ingrese la apuesta')
+        p
+        label(for='gamers') Apuesta Jugador 2:
+        input(type='text', id='gamers', name='gamers[1][bet]', value='', placeholder='Ingrese la apuesta')
+        p
+        label(for='gamers') Apuesta Jugador 3: 
+        input(type='text', id='gamers', name='gamers[2][bet]', value='', placeholder='Ingrese la apuesta')
+        p
+        button(type='submit') Empezar juego
