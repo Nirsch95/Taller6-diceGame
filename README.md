@@ -42,3 +42,13 @@ Respuesta en formato JSON esperada
 
 ![image](https://user-images.githubusercontent.com/37886668/190055498-e1601cd9-b18e-479a-a58c-b424c03b1d2a.png)
 
+Mostrando estado del juego
+
+![image](https://user-images.githubusercontent.com/37886668/190056276-3d0ce578-1df0-45a3-9035-ecd71b3c4e57.png)
+
+Se inicia el juego
+
+![image](https://user-images.githubusercontent.com/37886668/190056537-4617b918-c285-4436-a733-625650e7a948.png)
+
+![image](https://user-images.githubusercontent.com/37886668/190056506-0d460a01-124c-419c-8135-8b812e846921.png)
+
