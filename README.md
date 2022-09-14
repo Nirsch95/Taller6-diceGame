@@ -27,6 +27,10 @@ Proyecto demo en donde se una una separación de responsabilidades usando los co
 
 ![](https://terracloudx.com/wp-content/uploads/2020/07/icono-mongo.png)
 
+* React
+
+![](https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png)
+
 ### Autor
 [@Nirsch95](https://github.com/Nirsch95) - Andrés Castro :wolf:
 
